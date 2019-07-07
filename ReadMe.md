@@ -1,6 +1,4 @@
-Interviewee: Kourosh Naderi, PhD student at Aalto University
-
-## Documentation of the NextGames Exercise
+## Documentation 
 
 A copy of tetris game has been developed. There are four main classes in this project:
 
